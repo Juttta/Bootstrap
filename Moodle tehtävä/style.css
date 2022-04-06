@@ -1,0 +1,12 @@
+h2.otsikko{
+    margin-left: 20px;
+    margin-top: 5px;
+}
+
+.row > div{
+    border: 1px solid black;
+}
+
+[class^="col"]{
+    border: 5px solid black;
+}
